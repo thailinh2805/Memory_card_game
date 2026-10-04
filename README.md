@@ -1,6 +1,6 @@
 # Game Project
 
-This project is a small game that I developed together with my teammates from Group 9 in the Engineering Mechanics Programming Techniques class. The game utilizes Pygame and features multiple screens: a start screen, settings, level selection, the main gameplay screen, and a game-over screen.
+This project is a small game that I developed together with my teammates from Group 9 in the Engineering Mechanics Programming Techniques class in 2024. The game utilizes Pygame and features multiple screens: a start screen, settings, level selection, the main gameplay screen, and a game-over screen.
 
 ## Features
 - Multiple game scenes and transitions
